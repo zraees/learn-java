@@ -5,5 +5,8 @@ public class InheritanceDemo {
 
         Bike bike = new Bike(88, "Red", "Kawasaki", 2);
         bike.getVehicleInfo();
+
+        bike.startDriving();
+        bike.stopDriving();
     }
 }
