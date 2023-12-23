@@ -1,6 +1,6 @@
 package basics;
 
-public class typeConv {
+public class TypeConversionDemo {
     public static void main(String[] args) {
         int intVar = 89;
         double doubleVar = 88.8;

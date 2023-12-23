@@ -1,6 +1,6 @@
 package basics;
 
-public class loops {
+public class LoopsDemo {
     public static void main(String[] args) {
 
         // loop = repeats statement multiple times

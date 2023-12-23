@@ -1,6 +1,6 @@
 package basics;
 
-public class condStatements {
+public class ConditionsDemo {
     public static void main(String[] args) {
 
         int age = 6;
